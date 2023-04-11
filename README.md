@@ -54,4 +54,4 @@ Este proyecto tiene como objetivo crear una base de datos en línea de descubrim
 * Delete: localhost:3002/Descubrimientos/{id}
 
 # Autores
-Jose Adrian Maradiaga Flores - 202110010288
+Adrian Maradiaga
